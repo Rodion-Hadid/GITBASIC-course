@@ -1,1 +1,2 @@
 print("put ur hands up")
+print("hey guys)
