@@ -1,2 +1,2 @@
-Print ("Hello World")
-Print ("Hello Everybody")
+Print ("Hello World");
+Print ("Hello Everybody");
